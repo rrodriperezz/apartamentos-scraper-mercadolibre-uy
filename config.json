@@ -1,0 +1,30 @@
+{
+  "barrios": {
+    "tres-cruces": "tres-cruces"
+  },
+  "palabras_excluir": [
+    "temporario",
+    "temporal",
+    "compartido",
+    "solo mujeres",
+    "solo hombres",
+    "amoblado temporario",
+    "por temporada",
+    "semanal"
+  ],
+  "url_config": {
+    "numero_dormitorios": "2",
+    "departamento": "montevideo",
+    "precio_minimo": "0",
+    "precio_maximo": "30000",
+    "ultimas24hrs": true
+  },
+  "duplicados": {
+    "archivo_visitados": "apartamentos_visitados.txt",
+    "filtrar_duplicados": true
+  },
+  "gastos_comunes": {
+    "obtener_gastos_comunes": true
+  },
+  "max_paginas": 10
+}
