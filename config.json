@@ -1,6 +1,17 @@
 {
   "barrios": {
-    "tres-cruces": "tres-cruces"
+    "tres-cruces": "tres-cruces",
+    "cordon": "cordon",
+    "aguada": "aguada",
+    "palermo": "palermo",
+    "la-comercial": "la-comercial",
+    "pocitos": "pocitos",
+    "punta-carretas": "punta-carretas",
+    "centro": "centro",
+    "parque-battle": "parque-battle",
+    "barrio-sur": "barrio-sur",
+    "rambla": "rambla",
+    "palacio": "palacio"
   },
   "palabras_excluir": [
     "temporario",
